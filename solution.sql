@@ -1,8 +1,3 @@
--- Fix Karthik's department
-UPDATE Student 
-SET DepartmentID = 103 
-WHERE StudentName = 'Karthik';
-
--- Delete Student 1002
-DELETE FROM Student 
-WHERE StudentID = 1002;
+-- Write your SQL queries below to complete the assignment:
+-- 1. Update Karthik's DepartmentID to 103.
+-- 2. Delete StudentID 1002.
