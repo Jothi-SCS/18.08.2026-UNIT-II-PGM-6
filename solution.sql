@@ -1,3 +1,1 @@
--- Write your SQL queries below to complete the assignment:
--- 1. Update Karthik's DepartmentID to 103.
--- 2. Delete StudentID 1002.
+6.	Update the department of student Karthik from 101 to 103 and delete the student record whose StudentID is 1002.
